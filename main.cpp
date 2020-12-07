@@ -1,3 +1,5 @@
+ // Ашевский Алекснадр//
+//////////////////////
 #include <iostream>
 #include <string>
 #include "Bank.h"
